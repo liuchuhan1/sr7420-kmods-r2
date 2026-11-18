@@ -18,5 +18,14 @@
   "all_package_hashes_verified": true,
   "hardware_verified_for_all_packages": false,
   "previous_repository_preserved": true,
-  "firmware_source_repository": "sr7420-immortalwrt"
+  "firmware_source_repository": "sr7420-immortalwrt",
+  "router_apk_update_verified": true,
+  "router_package_fetch_verified": [
+    "kmod-inet-diag",
+    "kmod-netlink-diag",
+    "kmod-nf-conntrack-netlink",
+    "kmod-nft-tproxy",
+    "kmod-nft-socket",
+    "kmod-tun"
+  ]
 }
