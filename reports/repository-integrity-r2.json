@@ -1,0 +1,17 @@
+{
+  "generation": "r2",
+  "kernel_abi": "6.18.60~2b497291254683b6ce56b38338fafb7e-r1",
+  "packages": 1110,
+  "kmod_packages": 1109,
+  "all_package_hashes_verified": true,
+  "original_export_sha256": "03b5c774c75e4cb102234e1f141ebe7bc3e59859cfb84b597ce6eceee61af8d0",
+  "all_signatures_verified_at_build": true,
+  "privacy_scan_passed": true,
+  "same_public_key_as_r1": true,
+  "index": {
+    "file": "packages.adb",
+    "bytes": 151285,
+    "sha256": "14a629ae8bd39065a4f255cba97ac06776d05f224649f637e6762ae9a2e95e44"
+  },
+  "r1_deleted": false
+}

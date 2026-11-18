@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "objects_scanned": 6021,
+  "findings": [],
+  "reviewed_upstream_matches": [
+    {
+      "path": "aarch64_cortex-a53/6.18.60~2b497291254683b6ce56b38338fafb7e-r1/kmod-e1000-6.18.60-r1.apk!lib/modules/6.18.60/e1000.ko",
+      "artifact_sha256": "fb66e61c56eb93b19b2e3c104c924560db9cc9a26dfa419fe9aa14b5c674d2d0",
+      "reason": "Verified unchanged Linux upstream self-test address constant"
+    },
+    {
+      "path": "aarch64_cortex-a53/6.18.60~2b497291254683b6ce56b38338fafb7e-r1/kmod-ice-6.18.60-r1.apk!lib/modules/6.18.60/ice.ko",
+      "artifact_sha256": "e468b25698ee5c311dc2d1a96978bbeeea1a6f75815e8d40202b698dc265b41c",
+      "reason": "Verified unchanged Linux upstream self-test address constant"
+    },
+    {
+      "path": "aarch64_cortex-a53/6.18.60~2b497291254683b6ce56b38338fafb7e-r1/kmod-lib-raid6-6.18.60-r1.apk!lib/modules/6.18.60/raid6_pq.ko",
+      "artifact_sha256": "b5602c22f5e8b7c263200cae158e6ee9326644a47cc57a7e7d610acbe92cf728",
+      "reason": "Verified public RAID6 finite-field lookup-table sequence"
+    },
+    {
+      "path": "aarch64_cortex-a53/6.18.60~2b497291254683b6ce56b38338fafb7e-r1/kmod-mt76x0-common-6.18.60.2026.03.19~39c960c3-r3.apk!lib/firmware/mediatek/mt7610e.bin",
+      "artifact_sha256": "538d08c08f8fb5aa05cacf34e49aeb307e8b2dc094407fc655fbf3580c893953",
+      "reason": "Byte-identical firmware from checksum-verified pinned mt76 source archive"
+    },
+    {
+      "path": "aarch64_cortex-a53/6.18.60~2b497291254683b6ce56b38338fafb7e-r1/kmod-mt76x2-common-6.18.60.2026.03.19~39c960c3-r3.apk!lib/firmware/mt7662.bin",
+      "artifact_sha256": "c1ae4cb3901289a346555f7a06c7749ca3f5a27348db0365996581f1b496a8c7",
+      "reason": "Byte-identical firmware from checksum-verified pinned mt76 source archive"
+    }
+  ],
+  "reviewed_public_repository_matches": [],
+  "private_values_in_report": false
+}

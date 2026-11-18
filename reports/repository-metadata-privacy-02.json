@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "objects_scanned": 34,
+  "findings": [],
+  "reviewed_upstream_matches": [],
+  "reviewed_public_repository_matches": [
+    {
+      "path": "kmods/repositories/sr7420-r1.list",
+      "artifact_sha256": "785c2c87fd04b550b54bd3742471094a0a700a196acc577a655fcd99e7d78512",
+      "reason": "Verified public project repository owner in canonical HTTPS feed URL"
+    },
+    {
+      "path": "kmods-r2/repositories/sr7420-r2.list",
+      "artifact_sha256": "4b633431c044b0d36e9ba6a1f7743f3348a60023a698eb82f9ad7e73a71b2ad0",
+      "reason": "Verified public project repository owner in canonical HTTPS feed URL"
+    }
+  ],
+  "private_values_in_report": false
+}

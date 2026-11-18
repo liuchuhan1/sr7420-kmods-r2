@@ -1,0 +1,22 @@
+{
+  "generation": "r2",
+  "date": "2026-11-18",
+  "state": "signed_feed_verified",
+  "kernel": "6.18.60",
+  "kernel_abi": "6.18.60~2b497291254683b6ce56b38338fafb7e-r1",
+  "architecture": "aarch64_cortex-a53",
+  "packages_published": 1110,
+  "kmod_packages": 1109,
+  "requested_count": 1512,
+  "selected_count": 1109,
+  "unselected_count": 403,
+  "module_files": 1442,
+  "all_selected_kmods_compiled": true,
+  "all_requested_kmods_available": false,
+  "signatures_verified": true,
+  "native_index_signatures_verified": true,
+  "all_package_hashes_verified": true,
+  "hardware_verified_for_all_packages": false,
+  "previous_repository_preserved": true,
+  "firmware_source_repository": "sr7420-immortalwrt"
+}
